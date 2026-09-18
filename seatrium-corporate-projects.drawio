@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="eCTBMdluUrQcUKSnCOyK">
+    <mxGraphModel dx="1825" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tvqdjh7PEu2CxgTBfWfY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="APPLICATION" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="-920" as="geometry" />
+        </mxCell>
+        <mxCell id="Tvqdjh7PEu2CxgTBfWfY-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OM = om_centralized_v2&lt;/div&gt;&lt;div&gt;QMS = quality_observation&lt;/div&gt;&lt;div&gt;HID = hid&lt;/div&gt;&lt;div&gt;Medical Center = clinic&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Helpdesk = helpdesk&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Helpdesk Request&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;= smoe_helpdesk&lt;/span&gt;&lt;/div&gt;&lt;div&gt;IT Form = IT-Form&lt;/div&gt;&lt;div&gt;Security &amp;amp; IYM = Security&lt;/div&gt;&lt;div&gt;ISS = iss_new&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HSE = hse_web&lt;/div&gt;&lt;div&gt;Risk Assessment = risk_assesment&lt;/div&gt;&lt;div&gt;OFI = ofi_v2&lt;/div&gt;&lt;div&gt;Subcontractor = subcontractor&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="380" x="-30" y="-1000" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
